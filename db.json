@@ -1,0 +1,60 @@
+{
+  "hot": [
+    {
+      "id": 2,
+      "title": "asdf",
+      "content": "asdf",
+      "fire": "🔥🔥🔥🔥"
+    },
+    {
+      "id": 4,
+      "title": "qwe",
+      "content": "wqeqwer",
+      "fire": "🔥🔥"
+    },
+    {
+      "id": 5,
+      "title": "asfd",
+      "content": "asdf",
+      "fire": "🔥🔥🔥🔥"
+    },
+    {
+      "id": 6,
+      "title": "dfsfd",
+      "content": "sfdsdfs",
+      "fire": "🔥🔥🔥"
+    }
+  ],
+  "comments": [
+    {
+      "id": 4,
+      "comment": "dsfsfd",
+      "fire": "🔥🔥🔥🔥🔥",
+      "postId": "4"
+    },
+    {
+      "id": 5,
+      "comment": "fsdfsd",
+      "fire": "🔥",
+      "postId": "4"
+    },
+    {
+      "id": 6,
+      "comment": "fsfdsf",
+      "fire": "🔥🔥🔥🔥🔥",
+      "postId": "2"
+    },
+    {
+      "id": 7,
+      "comment": "fdsfds",
+      "fire": "🔥🔥🔥",
+      "postId": "2"
+    },
+    {
+      "id": 8,
+      "comment": "이제는 되어야 한다",
+      "fire": "🔥🔥🔥",
+      "postId": "5"
+    }
+  ]
+}
